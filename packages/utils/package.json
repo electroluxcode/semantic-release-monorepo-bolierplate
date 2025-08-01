@@ -1,6 +1,6 @@
 {
   "name": "@utils-monorepo-bolierplate/utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "main": "index.js",
   "publishConfig": {

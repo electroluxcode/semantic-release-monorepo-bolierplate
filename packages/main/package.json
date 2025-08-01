@@ -1,5 +1,5 @@
 {
-  "name": "@utils-bolierplate/main",
+  "name": "@utils-monorepo-bolierplate/main",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@utils-bolierplate/utils": "workspace:*"
+    "@utils-monorepo-bolierplate/utils": "workspace:*"
   }
 }

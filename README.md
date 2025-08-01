@@ -1,6 +1,6 @@
-# semantic-release-bolierplate 
+# semantic-release-monorepo-bolierplate 
 
-一个用于使用 semantic-release 的启动模板，具有使用 semantic-release 进行自动版本控制和发布的功能。
+一个用于 semantic-release 和 monorepo 的模板，具有使用 semantic-release 进行自动版本控制和发布的功能。同
 
 ## 特性
 
@@ -30,6 +30,10 @@
 2. 导航到您的个人设置
 3. 选择 "Access Tokens"
 4. 创建新的访问令牌（注意把权限勾上）
+
+#### 3. npm 的 令牌 添加你自己的 Organizations
+
+
 
 #### 3.  Github设置环境变量
 

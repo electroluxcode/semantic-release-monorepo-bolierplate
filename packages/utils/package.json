@@ -1,0 +1,14 @@
+{
+  "name": "@utils-bolierplate/utils",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
